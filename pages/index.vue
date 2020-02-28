@@ -6,7 +6,7 @@
         VirtualPetSite.Art
       </h1>
       <h2 class="subtitle">
-        A home for all of the old Pet Site Art!
+        A home for all of the old Pet Site Art! Test.
       </h2>
       <div class="links">
         <a href="https://nuxtjs.org/" target="_blank" class="button--green">
